@@ -1,12 +1,14 @@
-## Hello World 👋, I'm Gabriel Silva!
-
-About Me
+### Hello World 👋, I'm Gabriel Silva!
 
 
-Skills
+
+## About Me
 
 
-Tools
+## Skills
+
+
+## Tools
 
 
 <!--
