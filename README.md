@@ -1,10 +1,9 @@
-
 ### About Me 
 
-Hello World 👋, I'm Gabriel Silva!
+Hello World 👋,  💬
 
 <p>
-Graduated in Information Systems, with professional experience in user support and management tools, Estudante de tecnologia, linguagem e ferramentas para desenvolvimento aplicativos e sistemas de software.
+I'm <i>Gabriel Silva, Graduated in Information Systems, with professional experience in user support and management tools, Estudante de tecnologia, linguagem e ferramentas para desenvolvimento aplicativos e sistemas de software.
 </p>
 
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
@@ -30,15 +29,12 @@ Graduated in Information Systems, with professional experience in user support a
     <img alt="Gabriel-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
     
 </div><br/>
-<p>
+
 🌱 **I’m currently learning:**
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</p>
-<br/>
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Tools
 
