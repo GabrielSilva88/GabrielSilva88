@@ -3,7 +3,7 @@
 Hello World 👋,  💬
 
 <p>
-I'm <i>Gabriel Silva, Graduated in Information Systems, with professional experience in user support and management tools, Estudante de tecnologia, linguagem e ferramentas para desenvolvimento aplicativos e sistemas de software.
+I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional experience in user support and management tools, Estudante de tecnologia, linguagem e ferramentas para desenvolvimento aplicativos e sistemas de software.
 </p>
 
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
