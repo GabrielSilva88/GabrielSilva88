@@ -7,6 +7,7 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
 </p>
 
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
+
 [![GabrielSilva88 top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark)](https://github.com/gabrielsilva88/github-readme-stats)
 
 📫 **How to contact me:**
