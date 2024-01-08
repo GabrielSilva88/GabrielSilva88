@@ -5,9 +5,8 @@ Hello World 👋,  💬
 <p>
 I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional experience in user support and management tools, Student of technology, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
 </p>
-    
-[![GabrielSilva88 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
 [![GabrielSilva88 top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark)](https://github.com/gabrielsilva88/github-readme-stats)
 
 📫 **How to contact me:**
@@ -69,7 +68,6 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
 ### Skills
 ### Tools
      Imagem do status do GitHub com icones e dados de perfil. 
-     ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
 ![GabrielSilva88 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSilva88&show_icons=true&theme=dracula)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilva88&theme=dracula&layout=compact)](https://github.com/GabrielSilva88/github-readme-stats)
 
