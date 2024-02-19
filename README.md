@@ -6,13 +6,10 @@ Hello World 👋,  💬
 I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional experience in user support and management tools, Student of technology, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
 </p>
 
-<div align="center">
-    <a href="https://github.com/GabrielSilva88/github-readme-states">
-       <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark"/>
-    </a>
-    <a href="https://github.com/GabrielSilva88/github-readme-states">
-       <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark"/>
-    </a>
+<div>
+    <a href="https://github.com/GabrielSilva88">
+       <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark"/>
+       <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark"/>
 </div>
 
 <!--
