@@ -10,6 +10,7 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
         <a href="https://github.com/GabrielSilva88/github-readme-states">
             <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark" />
 </div>
+            
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
 [![GabrielSilva88 top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark)](https://github.com/gabrielsilva88/github-readme-stats)
 
