@@ -52,6 +52,14 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgresSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Badges
+
+<details>
+<summary> CertiProf </summary>
+    <img src="/img/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="100px"></img>
+    <img src="/img/lifelong-learning.png" width="100px" ></img>
+</details>
+
 <!-- Mesmo efeito ao apresentar dado no markdown 
     
  <div align="center">
@@ -59,7 +67,6 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
      <img height="175" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dracula&layoyt=compact"/>
      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&theme=dracula&layout=compact"/>
    </div>
-
 -->
 
 <!--  Versão não Utilizada para ocasião. 
