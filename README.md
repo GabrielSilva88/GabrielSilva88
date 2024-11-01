@@ -16,7 +16,7 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional ex
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
 [![GabrielSilva88 top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark)](https://github.com/gabrielsilva88/github-readme-stats)
 -->
-
+<p></p>
 📫 **How to contact me:**
 
 [![LinkeId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-miguel-527656141)
