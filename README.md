@@ -3,7 +3,7 @@
 Hello World 👋,  💬
 
 <p>
-I'm <i>Gabriel Silva</i>, Graduated in Information Systems, with professional experience in user support and management tools, Student of technology, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
+I'm <i>Gabriel Silva</i>, Graduated in Information Systems and studying Systems Analysis and Development, with professional experience in user support and management tools, Student of technology focused on programming, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
 </p>
 
 <div>
