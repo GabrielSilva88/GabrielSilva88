@@ -1,16 +1,15 @@
-# About Me 
-
-Hello World 👋,  💬
-
+<h1> Hello World 👋, I'm <i>Gabriel Silva</i></h1>
+<div>
 <p>
-I'm <i>Gabriel Silva</i>, Graduated in Information Systems and studying Systems Analysis and Development, with professional experience in user support and management tools, Student of technology focused on programming, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
+Graduated in Information Systems and studying Systems Analysis and Development, with professional experience in user support and management tools, Student of technology focused on programming, language and tools for developing applications and software systems, involving good practices and personal and professional knowledge.
 </p>
-
+<!-- 
 <div>
     <a href="https://github.com/GabrielSilva88">
        <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark"/>
        <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva88&layout=compact&theme=dark"/>
 </div>
+-->
 
 <!--
 ![GabrielSilva stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva88&show_icons=true&theme=dark)
@@ -18,46 +17,43 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems and studying Systems 
 -->
 
 
-📫 **How to contact me:**
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
+<!--[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)-->
+<div align="center">
+    
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/GabrielSilva88)
 [![LinkeId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-miguel-527656141)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-### Operating Systems
+</div>
+
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-### Langueges
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
-### Style Languages
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white)
 ![Html5](https://img.shields.io/badge/html5-orange?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 
-### Databases
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white)
 ![PostgresSql](https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white)
 
-### Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 
-### Support Tools
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)
@@ -66,15 +62,9 @@ I'm <i>Gabriel Silva</i>, Graduated in Information Systems and studying Systems 
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
-🌱 **I’m currently learning with:**
-
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)
-
-
-
-### Badges
 
 <details>
 <summary> CertiProf </summary>
